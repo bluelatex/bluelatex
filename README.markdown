@@ -1,3 +1,4 @@
+[![Stories in Ready](https://badge.waffle.io/bluelatex/bluelatex.png?label=ready&title=Ready)](https://waffle.io/bluelatex/bluelatex)
 \BlueLaTeX Governance Project
 =============================
 
