@@ -14,8 +14,7 @@ New Tickets
 
 Tickets you may open here must describe high-level scenarios. For example one ticket for user registration without email validation would look like this:
 
-> User registration without validation must be allowed
-> ----------------------------------------------------
+> ### User registration without validation must be allowed
 >
 > The server must be able to be configured so that email validation is not required upon user registration.
 > In such a case, the user is asked for a password that will protect the newly created account.
