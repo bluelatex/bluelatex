@@ -1,5 +1,4 @@
-[![Stories Proposed](https://badge.waffle.io/bluelatex/bluelatex.png?label=Proposed&title=Proposed)](https://waffle.io/bluelatex/bluelatex)
-[![Stories Accepted](https://badge.waffle.io/bluelatex/bluelatex.png?label=Accepted&title=Accepted)](https://waffle.io/bluelatex/bluelatex)
+[![Stories In Progress](https://badge.waffle.io/bluelatex/bluelatex.svg?label=In%20Progress&title=In%20Progress)](http://waffle.io/bluelatex/bluelatex) 
 \BlueLaTeX Governance Project
 =============================
 
